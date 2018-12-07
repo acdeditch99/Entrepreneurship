@@ -8,4 +8,4 @@
 	304) 
 
 	They contain a significant number of PowerPoints, Blender (3D Modeling Software) Files, and Photoshop Files 
-	in the context of pitching ideas and making general buisness plans.
+	in the context of pitching ideas and making general business plans.
