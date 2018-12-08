@@ -3,7 +3,7 @@
 	This is merely a link to my OneDrive archive of Entrepreneurship Projects that
 	I had done for Entrepreneurship 101 & 304. Spring of Freshman Year, 2018 & Fall of Sophomore Year, 2018 Respectively.
 	
-	101) <li>https://1drv.ms/f/s!AnIn-BwnaKWIvRcGqBs5Syy2T4pE
+	101) https://1drv.ms/f/s!AnIn-BwnaKWIvRcGqBs5Syy2T4pE
 	
 	304) 
 
