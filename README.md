@@ -13,6 +13,4 @@
 	A Few Examples Include
 	
 	(101) Workspace\Second Half\Schem1B-OpenDrawer_render0001.png
-<img>
-https://502alg.bn.files.1drv.com/y4mPa92rMayi38UbvR2xa7h-j8TBaN5ZAjI5M99GW9vXbAgCStCUq5_ABMRwp0l-5Tmi6yObjYeW176MCaImr44t2kaR-DQSuvScj5KoJufBnXr44QvZQPU5ALUaqT81HZE5gq2c-0t-nkf9g5bGcZmVACWMEcuwDmK9Aaq8XYpdTZ0mEsHatFNRfas5rtk4RQk9MnwvXZjYKwInJBdsvcc9w/Schem1B-OpenDrawer_render0001.png?psid=1 
-</img>
+<img src="https://502alg.bn.files.1drv.com/y4mPa92rMayi38UbvR2xa7h-j8TBaN5ZAjI5M99GW9vXbAgCStCUq5_ABMRwp0l-5Tmi6yObjYeW176MCaImr44t2kaR-DQSuvScj5KoJufBnXr44QvZQPU5ALUaqT81HZE5gq2c-0t-nkf9g5bGcZmVACWMEcuwDmK9Aaq8XYpdTZ0mEsHatFNRfas5rtk4RQk9MnwvXZjYKwInJBdsvcc9w/Schem1B-OpenDrawer_render0001.png?psid=1" >
