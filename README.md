@@ -36,8 +36,9 @@ https://onedrive.live.com/view.aspx?cid=88a568271cf82772&page=view&resid=88A5682
 	(101) "ReCalc" A Rival Product to the Ti-84 line of Graphing Calculators
 https://onedrive.live.com/view.aspx?cid=88a568271cf82772&page=view&resid=88A568271CF82772!8235&parId=88A568271CF82772!7865&authkey=!AAaoGzlLLLZPikQ&app=PowerPoint
 
-	
+	(101) "RouRou" A sweet smelling Perfume bottle design
+https://onedrive.live.com/?authkey=%21AAaoGzlLLLZPikQ&cid=88A568271CF82772&id=88A568271CF82772%218240&parId=88A568271CF82772%217867&o=OneUp
 
-
-
+	(101) "AISLELAND" A presentation and logo about a food market crossed with a hobby shop.
+https://onedrive.live.com/view.aspx?cid=88a568271cf82772&page=view&resid=88A568271CF82772!8385&parId=88A568271CF82772!7869&authkey=!AAaoGzlLLLZPikQ&app=PowerPoint
 	
